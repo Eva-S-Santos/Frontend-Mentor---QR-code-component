@@ -9,6 +9,7 @@
 body{
     margin: 0;
     font-family: 'Outfit', sans-serif;
+    background-color: var(--light-gray); 
 }
 
 /* Contains the body of the card with it`s content */
