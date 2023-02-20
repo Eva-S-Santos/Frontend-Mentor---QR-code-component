@@ -22,7 +22,7 @@ body{
 
 /* Card`s body */
 .card-body {
-     max-width: 275px;
+    max-width: 275px;
     padding: 1em;
     text-align: center;
     background-color: var(--white);
