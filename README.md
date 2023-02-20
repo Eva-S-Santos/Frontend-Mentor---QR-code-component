@@ -6,7 +6,7 @@ Here is my solution:
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Frontend Mentor - QR code component image](relative/path/in/repository/to/design/desktop-design.jpg)
+![Frontend Mentor - QR code component image](https://user-images.githubusercontent.com/125904295/220178320-2f795caa-c184-4891-a29b-24d8dabefca9.jpg)
 
 ## Table of contents
 
