@@ -6,7 +6,9 @@ Here is my solution:
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-https://github.com/[Eva-S-Santos]/[Frontend-Mentor-QR-code-component]/blob/[main]/design/desktop-design.jpg?raw=true
+![Alt text](relative/path/to/design/desktop-design.jpg?raw=true "Title")
+
+https://github.com/[Eva-S-Santos]/[Frontend-Mentor-QR-code-component]/blob/[main]/desktop-design.jpg?raw=true
 
 ## Table of contents
 
